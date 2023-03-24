@@ -31,7 +31,7 @@
                 - Edit User Details
     -   `Miscellaneous`
         >
-            1. Created Custom Query in Graphql to list all the cart Items by cart using **@index** directive
+            1. Created Custom Query in Graphql to list all the cart Items by cart using @index directive
             2. Loading Screen until Api call finishes
             3. Toast for Success and Failure
             4. Dynamic Navbar for Auth Module and other modules.
