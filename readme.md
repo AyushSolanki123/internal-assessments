@@ -37,3 +37,28 @@
             4. Dynamic Navbar for Auth Module and other modules.
 
 ---
+
+3.  Final Assessment - Flight Booking CRUD Application with Ngrx and auth using Cognito
+    -   `Modules added`
+        >
+              1. Auth Module
+                  - Login User
+                  - Register User
+                  - Confirm User
+              2. Home Module
+                  - GuideLines for Booking Ticket
+              3. Book Tickets Module
+                  - List All Available Flight
+                  - Add Booking
+              4. View Details Module
+                  - List all Bookings
+                  - Update booking
+                  - Delete Booking
+    -   `Miscellaneous`
+        >
+              1. Created Custom query in graphql to list all bookings by user
+              2. Loading Screen until Api call finishes
+              3. Dynamic Navbar for Auth Module and other modules.
+              4. Added a shared Module to make loading component available in all modules
+              5. Added Auth Guard to handle unauthorized access
+              6. Added a page not found Screen
